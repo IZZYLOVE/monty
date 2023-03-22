@@ -1,5 +1,5 @@
-# Printf project, our first ALX team project
-# Creating Printf Function
+# Printf project
+# 0x19. C - Stacks, Queues - LIFO, FIFO
 ### collaborators:
 * KINGDOM ADELE --IZZYLOVU
 * Kingsley Solomon --solokool66

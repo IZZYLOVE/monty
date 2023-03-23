@@ -14,6 +14,6 @@ fclose(bus.file);
 free(bus.content);
 free_stack(*head);
 xit(EXIT_FAILURE);
-	}
-	printf("%d\n", (*head)->n);
+}
+printf("%d\n", (*head)->n);
 }
